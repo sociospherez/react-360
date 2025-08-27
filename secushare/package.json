@@ -18,15 +18,9 @@
   },
   "devDependencies": {
     "babel-jest": "^30.1.1",
-<<<<<<< HEAD
     "babel-preset-react-native": "^5.0.2",
     "jest": "^30.1.1",
     "react-devtools": "^1.0.5",
-=======
-    "babel-preset-react-native": "^4.0.1",
-    "jest": "^30.1.1",
-    "react-devtools": "^6.1.5",
->>>>>>> 824f99cd02bd955d5e57601c7490c72677a94e2c
     "react-test-renderer": "^16.14.0",
     "xopen": "1.0.0"
   },
