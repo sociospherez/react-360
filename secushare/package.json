@@ -10,18 +10,18 @@
     "test": "jest"
   },
   "dependencies": {
-    "react": "16.3.2",
-    "react-native": "~0.55.4",
-    "three": "^0.87.0",
-    "react-360": "~1.1.0",
-    "react-360-web": "~1.1.0"
+    "react": "^16.14.0",
+    "react-360": "^0.0.1",
+    "react-360-web": "~1.1.0",
+    "react-native": "^0.81.1",
+    "three": "^0.179.1"
   },
   "devDependencies": {
-    "babel-jest": "^19.0.0",
-    "babel-preset-react-native": "^1.9.1",
-    "jest": "^19.0.2",
-    "react-devtools": "^2.5.2",
-    "react-test-renderer": "16.0.0",
+    "babel-jest": "^30.1.1",
+    "babel-preset-react-native": "^5.0.2",
+    "jest": "^30.1.1",
+    "react-devtools": "^1.0.5",
+    "react-test-renderer": "^16.14.0",
     "xopen": "1.0.0"
   },
   "jest": {
